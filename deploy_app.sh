@@ -4,4 +4,6 @@ sleep 5
 echo "deployment in progress..!"
 sleep 7
 echo "application deployment completed"
+whoam1
+w
 date
